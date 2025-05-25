@@ -1,8 +1,7 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME : JEEVITH A
-### ROLL NO: 212223240059
-### DEPARTMENT: AIML
-### DATE: 20-05-2025
+### NAME : PRABANJAN R
+### ROLL NO: 212224230198
+### DEPARTMENT: AIDS
 
 
 
