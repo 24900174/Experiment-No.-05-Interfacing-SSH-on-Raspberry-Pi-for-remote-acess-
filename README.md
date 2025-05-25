@@ -60,6 +60,9 @@ On Linux/macOS:
 3. Accept the fingerprint (first-time only).
 4. Enter the password when prompted.
 ## SCREEN SHOTS OF THE INTERFACE 
+![Screenshot 2025-05-25 142359](https://github.com/user-attachments/assets/2a705ac5-c583-4353-b0fd-442dfcbf4157)
+![Screenshot 2025-05-25 142432](https://github.com/user-attachments/assets/502a6f2a-b6a8-410c-a1ed-c1e62aa8e124)
+![Screenshot 2025-05-25 142517](https://github.com/user-attachments/assets/e9774b18-a9ec-4792-a0d8-abd51cd51e3a)
 
 ##  HARDWARE 
 
